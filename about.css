@@ -1,0 +1,51 @@
+header{
+    background-color: #4f687d;
+   display: flex;
+   justify-content: space-between;
+   height:100px ;
+    align-items: baseline;
+}
+a{
+    padding: 0;
+    margin: 10px;}
+
+    
+    h1{  
+        color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 25px;
+        
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    footer{
+        background-color: tan;
+        display: flex;
+        justify-content:space-between;
+        height:100px ;
+         align-items: baseline;
+    
+    
+    }
+    #contactofoot{
+        color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+       
+
+
+    }
+
+    .facebook{
+        height: 20px;
+        
+        }
+        
+        .instagram{
+        height: 20px;
+        
+        }
